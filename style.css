@@ -64,11 +64,10 @@ main{
 
 /**/
 
-@media screen annd (max-width: 768) {
+@media screen and (max-width: 768px) {
   main {
     width: 100%;
   }
 
-  
 
 }
