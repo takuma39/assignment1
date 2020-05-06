@@ -65,6 +65,10 @@ main{
 /**/
 
 @media screen annd (max-width: 768) {
+  main {
+    width: 100%;
+  }
+
   
-  
+
 }
