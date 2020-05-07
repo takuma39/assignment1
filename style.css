@@ -26,6 +26,7 @@ main{
 
 .box:last-child{
   margin-right: 0;
+  margin-bottom: 0;
 }
 
 .box-image1{
@@ -66,13 +67,14 @@ main{
 
 @media screen and (max-width: 768px) {
   main {
-     width: 100%;
+     width: 90%;
+     margin: 50px auto;
     }
 
   .box {
-    width: 90%;
-    margin: 0 5% 20px 5%;
-
+    width: 100%;
+    margin-bottom:20px;
+    float: none;
    }
 
   .box-image1 {
